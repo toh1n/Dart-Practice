@@ -1,6 +1,8 @@
 /*
+Name : Mazharul Islam Tohin
 Assignment : 1
 Date : 14-04-2023
+Problem:
 Take a list of phone numbers example
 phoneNumber = [ +88, 01768131685, 01768171985, 01768111286, 01768131685]
 And write program that prints out the full number like ‘+8801768171985’. 
